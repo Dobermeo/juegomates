@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: #3391ff;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #ffffff;
+  }
+  
+  #question {
+    font-size: 38px;
+    margin: 20px 0;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    font-size: 27px;
+  }
+  
+  button {
+    padding: 19px 38px;
+    font-size: 22px;
+    background-color: #7ED321;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #score {
+    font-size: 37px;
+    margin-top: 20px;
+  }
+  
+  #gameover {
+    display: none;
+    margin-top: 50px;
+  }
+  
+  #resultText {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  #finalScore {
+    font-size: 36px;
+    margin: 20px 0;
+  }
+  
+  .green {
+    color: #ffe000;
+  }
+  
+  .red {
+    color: #ef1500;
+  }
+  
